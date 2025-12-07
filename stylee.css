@@ -1,0 +1,52 @@
+body {
+     background-color: brown;
+     font-family: times new roman;
+	 margin: 10px;
+     }
+
+h1 {
+     color:white;
+}
+
+h1 {
+	 background: maroon;
+}
+
+h2 {
+	color: blue;
+	background: grey;
+}
+
+ #start {
+	background-color: lightyellow;
+}
+
+
+nav ul {
+	list-style-type: none;
+	background-color: lightyellow;
+	padding: 10px;
+	margin:10px;
+	overflow: hidden;
+	border-style: dotted;
+	border-color: black;
+	border-width: dotted 10px;
+	
+	
+}
+	
+nav a{
+	color: maroon;
+	text-decoration: none;
+	display: block;
+	padding: 15px;
+	text-align: center;
+}	
+
+nav a:hover{
+	background-color: lightpink;
+}
+
+nav li{
+	float:left;
+}
